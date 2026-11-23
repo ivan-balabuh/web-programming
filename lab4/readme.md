@@ -93,7 +93,8 @@ processSet(mySet, (num) => console.log(num * 10));
 ## 4. Результати роботи (Скріншот консолі розробника)
 
 ### Виведення результатів у консолі браузера (Chrome DevTools)
-![Результати в консолі](./img/1.png)
+![Результати в консолі](<img width="1086" height="966" alt="image" src="https://github.com/user-attachments/assets/723984be-7964-4804-ace7-f3b98f758cc1" />
+)
 
 ---
 
